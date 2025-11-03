@@ -5,7 +5,7 @@ An archive for Sonic Robo Blast 2 modifications and add-ons, hosted by Marilyn w
 Only creations I have seen or dug for. Open Assets, Reusability, and other terms do not apply.
 
 ### Can I get my creations added?
-Yes, you may contact me on Discord @ mysticrealmcommunityedition with your creations, and preferred author name.
+Yes, you may contact me on Discord @ `mysticrealmcommunityedition` with your creations, and preferred author name.
 
 ### What about creations by banned / perm-banned members of the SRB2 Discord or Message Board?
 You are also welcome. However, if your ban offensive was _serious_ enough, then I cannot allow your submission.
