@@ -13,4 +13,5 @@ You are also welcome. However, if your ban offensive was _serious_ enough, then 
 
 ## Content Disclaimer
 By default, all creations uploaded will stick to their original filename, and be placed in a folder with their author's name.
-If you would prefer something different, let me know. I will not remove creations.
+If you would prefer something different, let me know. I will not remove creations unless requested by the ORIGINAL author.
+All decisions final will be decided by me, Marilyn.
