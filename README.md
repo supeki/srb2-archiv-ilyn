@@ -8,7 +8,7 @@ Only creations I have seen or dug for. Open Assets, Reusability, and other terms
 Yes, you may contact me on Discord @ `mysticrealmcommunityedition` with your creations, and preferred author name.
 
 ### What about creations by banned / perm-banned members of the SRB2 Discord or Message Board?
-You are also welcome. However, if your ban offensive was _serious_ enough, then I cannot allow your submission.
+You are also welcome. However, if your ban offense was _serious_ enough, then I cannot allow your submission.
 
 
 ## Content Disclaimer
